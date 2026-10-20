@@ -1,2 +1,2 @@
 # internal
-internal server
+internal client
